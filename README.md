@@ -1,2 +1,2 @@
-# tcpl-exercises
-Solutions to the Exercises in The C Programming Language, second edition
+# TCPL Exercises
+Solutions to the _Exercises_ in The __C Programming Language, second edition__
